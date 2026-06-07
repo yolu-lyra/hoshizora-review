@@ -2,7 +2,7 @@
 星空案内人復習サイト作成：更新履歴
 
 2026-6-7<br>
-GitHubディレクトリ[data],[docs],[tools]へファイルをアップロード
+GitHubディレクトリ[data],[docs],[tools]へファイルをアップロード<br>
 style.cssにcardタイプでindex.htmlに表示させるコードを記載
 
 2026-6-6<br>
