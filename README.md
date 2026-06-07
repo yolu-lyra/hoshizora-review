@@ -3,7 +3,8 @@
 
 2026-6-7<br>
 GitHubディレクトリ[data],[docs],[tools]へファイルをアップロード<br>
-style.cssにcardタイプでindex.htmlに表示させるコードを記載
+style.cssにcardタイプでindex.htmlに表示させるコードを記載<br>
+index.htmlの観測ポイントを折りたたみ表示に変更
 
 2026-6-6<br>
 pythonでhtmlページを表示させるためのリポジトリを作成<br>
