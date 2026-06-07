@@ -26,9 +26,12 @@ for zodiac in zodiac_list:
     <div class="card">
         <h2>{zodiac["name"]}</h2>
         <p>一等星: {zodiac["bright_star"]}</p>
-        <p>見頃: {zodiac["season"]}</P>
+        <p>見頃: {zodiac["season"]}</p>
         <p>神話: {zodiac["myth"]}</p>
-        <p>観測ポイント: {zodiac["observation"]}</p>
+        <details>
+            <summary>観測ポイントを見る</summary>
+            <p>{zodiac["observation"]}</p>
+        </details>
     </div>
     """
 
